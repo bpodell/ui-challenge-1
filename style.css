@@ -84,9 +84,9 @@ body{
         display: inline-block;
     }
     #cdefghi {
-        width: 70%;
-        height: 50%;
+        width: 78%;
         float: right;
+        border: none;
     }
     #cd {
         float: right;
@@ -107,7 +107,7 @@ body{
     }
     #efgh {
        height: 250px;
-       width: 700px;
+       width: 100%;
        float: right;
     }
     #e {
