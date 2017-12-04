@@ -11,6 +11,7 @@ body{
     margin: 0;
     padding: 0;
     width: 100%;
+    
 }
 
 @media (max-width: 799px) {
@@ -77,7 +78,7 @@ body{
         text-align: center;
     }
     #b {
-        width: 200px;
+        width: 20%;
         height: 600px;
         text-align: center;
         margin: 0;
@@ -91,7 +92,7 @@ body{
     #cd {
         float: right;
         height: 200px;
-        width: 750px;
+        width: 100%;
     }
     #c {
         width: 49%;
@@ -135,10 +136,15 @@ body{
         text-align: center;
         display: inline-block;
     }
+    #icontainer {
+        width:100%;
+        display: inline-block;
+    }
     #i {
         width: 750px;
         height: 150px;
         text-align: center;
         float: right;
+        
     }
 }
